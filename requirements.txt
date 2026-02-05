@@ -1,6 +1,3 @@
-# Railway Deployment Requirements
-# Python 3.11+ Compatible
-
 python-telegram-bot==13.15
 requests==2.31.0
 httpx==0.27.0
