@@ -39,10 +39,10 @@ fake = Faker('en_US')
 # ═══════════════════════════════════════════════════════════
 # ⚙️  CONFIGURATION
 # ═══════════════════════════════════════════════════════════
-BOT_NAME = "@nasahoker_bot"
+BOT_NAME = "@Xinicix_bot"
 DEV_NAME = "@xenlize"
 ADMIN_ID = "6193794414"
-TOKEN = os.getenv("BOT_TOKEN", "8407498716:AAFaRVwVHtIqgY15oiJZuZtPgIDpELfVBrc")
+TOKEN = os.getenv("BOT_TOKEN", "8304090513:AAGtSpPGBAhFoOG2S8_T9q0Uou0YCfVSj74")
 
 # ═══════════════════════════════════════════════════════════
 # 💾 DATA STORAGE
